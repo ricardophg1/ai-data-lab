@@ -91,4 +91,4 @@ Se quiser entrar em contato comigo, pode me encontrar no [LinkedIn](https://www.
 
 ## 📝 Licença
 
-Este repositório está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais detalhes.
+Este repositório está licenciado sob a licença MIT. Consulte [LICENSE MIT](https://opensource.org/license/MIT) para obter mais detalhes.
