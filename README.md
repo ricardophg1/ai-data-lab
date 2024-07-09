@@ -87,7 +87,7 @@ Sinta-se à vontade para explorar meus projetos, fazer sugestões ou abrir issue
 
 ## 📬 Contato
 
-Se quiser entrar em contato comigo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ricardophg-santos/) ou me enviar um e-mail para [seu-email@example.com](mailto:ricardophg1@gmail.com).
+Se quiser entrar em contato comigo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/ricardophg-santos/) ou me enviar um e-mail para [ricardophg1@gmail.com](mailto:ricardophg1@gmail.com).
 
 ## 📝 Licença
 
